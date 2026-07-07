@@ -29,7 +29,6 @@ A Java-based AI Chatbot developed for the CodeAlpha Internship. The chatbot uses
 
 - Home Screen
 - Chat Conversation
-- FAQ Response
 
 ## 👨‍💻 Author
 
