@@ -31,6 +31,4 @@ A Java-based AI Chatbot developed for the CodeAlpha Internship. The chatbot uses
 - Chat Conversation
 
 ## 👨‍💻 Author
-
-**Your Name**  
 Hardika yadav
